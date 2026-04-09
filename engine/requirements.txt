@@ -1,0 +1,7 @@
+pymongo
+python-dotenv
+tweepy
+praw
+pandas
+scikit-learn
+nltk
